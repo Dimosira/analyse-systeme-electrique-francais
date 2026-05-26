@@ -135,14 +135,20 @@ Développement d’un dashboard interactif Power BI permettant :
 
 ---
 
+
 # Impacts mesurables
 
-- Identification des périodes critiques du réseau électrique
-- Visualisation des disparités énergétiques régionales
-- Mise en évidence des territoires énergétiquement vulnérables
-- Transformation de données complexes en indicateurs d’aide à la décision
-- Production d’analyses exploitables pour la compréhension des enjeux énergétiques
+- Identification des périodes critiques du réseau électrique, avec un taux de déficit atteignant 2,7 % à 13h durant certaines périodes de forte consommation.
 
+- Mise en évidence de fortes disparités énergétiques régionales : le Centre-Val de Loire présente un ratio de couverture supérieur à 400 %, tandis que l’Île-de-France reste fortement dépendante des importations énergétiques avec un taux de dépendance proche de 95 %.
+
+- Analyse du mix énergétique régional montrant une forte dépendance structurelle au nucléaire, représentant près de 70 % de la production nationale en 2024.
+
+- Identification des régions les plus vulnérables énergétiquement, notamment l’Île-de-France, la Bretagne et la Bourgogne-Franche-Comté.
+
+- Visualisation des variations saisonnières de la consommation électrique, avec des pics de tension principalement observés en hiver.
+
+- Transformation de plus de 2,5 millions de données énergétiques en indicateurs d’aide à la décision et dashboards interactifs exploitables.
 ---
 
 # Limites
