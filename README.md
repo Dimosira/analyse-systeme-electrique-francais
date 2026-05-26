@@ -109,19 +109,19 @@ Développement d’un dashboard interactif Power BI permettant :
 
 ## Structure du mix énergétique régional
 
-![Mix énergétique](images/mix-énergétique-autonomie-regionale.png)
+![Mix énergétique](images/mix-energetique-autonomie-regionale.png)
 
 ---
 
 ## Autonomie énergétique régionale
 
-![Autonomie énergétique](images/autonomie-énergétique-regionale-france.png)
+![Autonomie énergétique](images/autonomie-energétique-regionale-france.png)
 
 ---
 
 ## Vulnérabilité énergétique régionale
 
-![Vulnérabilité énergétique](images/vulnérabilité-énergétique-regionale.png)
+![Vulnérabilité énergétique](images/vulnerabilité-énergétique-regionale.png)
 
 ---
 
