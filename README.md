@@ -1,2 +1,3 @@
 # analyse-systeme-electrique-francais
-Projet d’analyse de données du réseau de transport d'électricité afin d’étudier l’équilibre entre production et consommation d’électricité en France entre 2013 et 2024. Le projet met en évidence les tensions du réseau électrique, les disparités régionales et la vulnérabilité énergétique des territoires.
+Projet d’analyse de données énergétiques spatio-temporelles réalisé avec Python et Power BI afin d’étudier les dynamiques de production et de consommation d’électricité en France entre 2013 et 2024.
+Le projet permet d’identifier les tensions du réseau électrique, les vulnérabilités énergétiques régionales et les périodes critiques du système à partir de plus de 2,5 millions de données issues du réseau de transport d'électricité.
