@@ -115,13 +115,13 @@ Développement d’un dashboard interactif Power BI permettant :
 
 ## Autonomie énergétique régionale
 
-![Autonomie énergétique](images/autonomie-energétique-regionale-france.png)
+![Autonomie énergétique](images/autonomie-energetique-regionale-france.png)
 
 ---
 
 ## Vulnérabilité énergétique régionale
 
-![Vulnérabilité énergétique](images/vulnerabilité-énergétique-regionale.png)
+![Vulnérabilité énergétique](images/vulnerabilite-energetique-regionale.png)
 
 ---
 
